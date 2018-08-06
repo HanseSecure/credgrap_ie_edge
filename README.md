@@ -24,3 +24,7 @@ Don't save any passwords within your browser and use password safes ;-)
 ### Additionally Information
 I was informed by @jaredhaight that this code was already used in the past. I Didn't know that, but i want to add the link to that post https://www.toddklindt.com/blog/_layouts/mobile/dispform.aspx?List=56f96349-3bb6-4087-94f4-7f95ff4ca81f&ID=606
 
+I think the smaller the code, the bigger the chance to develop something 'old.
+
+Like in case of XSS ¯\_(ツ)_/¯
+
