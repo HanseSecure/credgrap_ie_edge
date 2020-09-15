@@ -1,4 +1,4 @@
-# Content: Receive Credentials from IE and Edge
+# Content: Receive Credentials from IE & Edge
 # Author: Florian Hansemann | @CyberWarship | https://hansesecure.de
 # Date: 09/2020
 
