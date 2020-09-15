@@ -1,4 +1,4 @@
-# Content: Get the stored creds from Internet Explorer and Edge
+# Content: Extract credentials from IE and Edge
 # Author: Florian Hansemann | @CyberWarship | https://hansesecure.de
 # Date: 09/2020
 
